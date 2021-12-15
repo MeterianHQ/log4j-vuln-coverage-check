@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>samples</groupId>
-    <artifactId>log4j-214</artifactId>
+    <artifactId>log4j-215</artifactId>
     <version>1.0</version>
 
     <name>log4j-vuln-coverage-check</name>
